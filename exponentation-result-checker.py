@@ -15,4 +15,3 @@ if result_input == base**exponent:
     print("Result correct")
 else:
     print("Result incorrect")
-3
